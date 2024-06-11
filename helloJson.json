@@ -1,0 +1,15 @@
+[
+    {
+        "nome": "John Doe",
+        "idade": 30,
+        "notificacao": true,
+        "passaporte": null,
+        "dependentes": [
+            {
+                "nome": "Mary Doe",
+                "idade": 30,
+                "parentesco": "conjuge"
+            }
+        ]
+    }
+]
